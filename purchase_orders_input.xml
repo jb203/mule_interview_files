@@ -1,0 +1,42 @@
+<orders>
+	<order>
+		<order_number>0001234</order_number>
+		<company>abc corp</company>
+		<status>0</status>
+		<order_date>06172019</order_date>
+		<created_by>bill</created_by>
+		<warehouse_id>182738</warehouse_id>
+		<vendor>8383</vendor>
+		<currency>USD,BRL</currency>
+	</order>
+	<order>
+		<order_number>1235</order_number>
+		<company>abc corp</company>
+		<status>1</status>
+		<order_date>06172019</order_date>
+		<created_by>bill</created_by>
+		<warehouse_id>182738</warehouse_id>
+		<vendor>8383</vendor>
+		<currency>USD,BRL</currency>
+	</order>
+	<order>
+		<order_number>01236</order_number>
+		<company>abc corp</company>
+		<status>0</status>
+		<order_date>06172019</order_date>
+		<created_by>jane</created_by>
+		<warehouse_id>182740</warehouse_id>
+		<vendor>6221</vendor>
+		<currency>THB,USD</currency>
+	</order>
+	<order>
+		<order_number>000000000001237</order_number>
+		<company>abc corp</company>
+		<status>2</status>
+		<order_date>06172019</order_date>
+		<created_by>fred</created_by>
+		<warehouse_id>182739</warehouse_id>
+		<vendor>7395</vendor>
+		<currency>USD,BRL,EUR</currency>
+	</order>
+</orders>
